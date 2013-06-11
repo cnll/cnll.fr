@@ -1,0 +1,21 @@
+<div class="sidebar">
+  <div class="widget">
+    <h4>Actualité récente</h4>
+    <ul>
+      {% for post in recent_posts[0:6] %}
+        <li><a href="{{ url_for("post", slug=post.slug) }}">{{ post.title }}</a>
+          ({{ post.meta.date|dateformat("medium") }})</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="widget">
+    <h4>Publications récentes</h4>
+    <ul>
+      {% for publi in publications[0:6] %}
+        <li><a href="/static/pdf/{{ publi.meta.pdf }}">{{ publi.title }}</a>
+          ({{ publi.meta.date|dateformat("medium") }})</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

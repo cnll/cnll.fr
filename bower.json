@@ -1,0 +1,13 @@
+{
+  "name": "cnll.fr",
+  "version": "1.0.0",
+  "dependencies": {
+    "ckeditor": "*",
+    "jquery": "*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

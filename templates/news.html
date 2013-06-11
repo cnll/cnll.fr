@@ -1,0 +1,70 @@
+{% extends "_base.html" %}
+
+{% block main %}
+
+<h1>Actualité du CNLL</h1>
+
+<!-- Blog starts -->
+
+<div class="blog">
+  <div class="row">
+    <div class="span12">
+
+      <!-- Blog Posts -->
+      <div class="row">
+        <div class="span8">
+          <div class="posts">
+
+            <!-- Each posts should be enclosed inside "entry" class" -->
+            {%- for post in posts %}
+            <div class="entry">
+              <h2><a itemprop="url" href="{{ url_for("post", slug=post.slug) }}"><span itemprop="name">{{ post.title }}</span></a></h2>
+
+              <!-- Meta details -->
+              <div class="meta">
+                <i class="icon-calendar"></i> {{ post.meta.date| dateformat("long") }}
+              </div>
+
+              <!-- Thumbnail -->
+              <div class="bthumb2">
+                <a href="{{ url_for("post", slug=post.meta.slug) }}"><img src="{{ url_for("image", path=post.meta.image) }}" alt="" /></a>
+              </div>
+
+              <p><q itemprop="description"><em>
+                {%- if post.meta.summary and post.meta.summary|striptags|trim %}
+                  {{- post.summary|trim }}
+                {%- elif post.html|striptags|trim -%}
+                  {{- post.html|striptags|trim|truncate(400) }}
+                {%- endif -%}
+              </em></q></p>
+
+              <div class="button"><a href="{{ url_for("post", slug=post.meta.slug) }}">Lire la suite</a></div>
+              <div class="clearfix"></div>
+            </div>
+            {% endfor %}
+
+            {#
+            <!-- Pagination -->
+            <div class="paging">
+              <span class='current'>1</span>
+              <a href='#'>2</a>
+              <span class="dots">&hellip;</span>
+              <a href='#'>6</a>
+              <a href="#">Next</a>
+            </div>
+            #}
+
+            <div class="clearfix"></div>
+
+          </div>
+        </div>
+
+        <div class="span4">
+          {% include "_sidebar.html" %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

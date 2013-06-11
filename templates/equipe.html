@@ -1,0 +1,103 @@
+{% extends "_base.html" %}
+
+{% macro show_profil(profil) %}
+
+<!-- Staff #1 -->
+<div class="row">
+  <div class="span6">
+    <div class="col-l">
+      <!-- Staff pic -->
+      <div class="pic">
+        <img src="/image/trombi/{{ profil.slug }}.jpg?v=200" alt="" />
+      </div>
+    </div>
+
+    <div class="col-r">
+      <div class="sinfo">
+        <!-- Name -->
+        <h4>{{ profil.nom }}</h4>
+        <!-- Designation -->
+        <h6 class="grey">{{ profil.fonction }}</h6>
+        <!-- Social media links. Replace # with profile links -->
+        <div class="social">
+          {% if profil.email %}
+          <a href="mailto:{{ profil.email }}" class="tip" data-original-title="Email"><i class="icon-envelope linkedin"></i></a>
+          {% endif %}
+          {% if profil.twitter %}
+          <a href="https://twitter.com/{{ profil.twitter }}" class="tip" data-original-title="Twitter"><i class="icon-twitter twitter"></i></a>
+          {% endif %}
+          {% if profil.linkedin %}
+          <a href="{{ profil.linkedin }}" class="tip" data-original-title="LinkedIn"><i class="icon-linkedin linkedin"></i></a>
+          {% endif %}
+
+          <a href="#" class="tip" data-original-title="Facebook"><i class="icon-facebook facebook"></i></a>
+          <a href="#" class="tip" data-original-title="Google Plus"><i class="icon-google-plus google-plus"></i></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix"></div>
+  </div>
+  <div class="span6">
+    <!-- Small para -->
+    <p class="ainfo">{{ profil.bio }}</p>
+  </div>
+</div>
+
+{% endmacro %}
+
+
+{% block main %}
+
+<h1>L'équipe du CNLL</h1>
+
+<h2>Président et porte-parole</h2>
+
+<p>
+Le Président du CNLL est élu par le Bureau. Il est chargé de le représenter
+et conduire son action, dans le cadre d’une feuille de route qui lui est confiée.
+</p>
+
+<div class="aboutus">
+  <div class="row">
+    <div class="span12">
+      <hr>
+      {{ show_profil(president) }}
+      <hr>
+    </div>
+  </div>
+</div>
+
+<h2>Vice-Présidents, Membres du Bureau</h2>
+
+<p>
+Les Vice-Présidents, s'exprimant à la majorité des votes dans la recherche du
+consensus lors des réunions mensuelles du Bureau, ou par mail lorsqe l'urgence
+le nécessite, ont le pouvoir de décision sur les actions du CNLL dont ils
+confient la charge au Président ou qui leur sont déléguées par le Bureau.
+</p>
+
+<div class="aboutus">
+  <div class="row">
+    <div class="span12">
+      <hr>
+      {% for profil in vice_presidents %}
+        {{ show_profil(profil) }}
+        <hr>
+      {%  endfor %}
+    </div>
+  </div>
+</div>
+
+<h2>Equipe opérationnelle</h2>
+
+<p>
+Les personnes suivantes, salariées des associations membres du CNLL,
+interviennent en soutien de certaines actions décidées par le Bureau.
+</p>
+
+<p>
+[TODO].
+</p>
+
+{% endblock %}

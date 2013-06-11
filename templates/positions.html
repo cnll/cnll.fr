@@ -1,0 +1,30 @@
+{% extends "_base.html" %}
+
+{% block main %}
+
+<h1>Prises de position du CNLL</h1>
+
+<h2>Livre blancs</h2>
+
+<ul class="publication-list">
+  {% for publication in publications %}
+  <li>
+    <article>
+      <div class="picture">
+        <a href="/static/pdf/{{ publication.meta.pdf }}">
+          <img src="{{ url_for("image", path=publication.meta.image, v=100) }}" alt="">
+        </a>
+      </div>
+      <div>
+        <a href="/static/pdf/{{ publication.meta.pdf }}">
+          <h3>{{ publication.title }}</h3>
+          {{ publication.html|safe }}
+        </a>
+        <aside>Publié le {{ publication.meta.date|dateformat("long") }}</aside>
+      </div>
+    </article>
+  </li>
+  {% endfor %}
+</ul>
+
+{% endblock %}

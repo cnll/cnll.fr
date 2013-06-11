@@ -1,0 +1,58 @@
+President:
+  nom: Patrice Bertrand
+  slug: pbertrand
+  fonction: Président du CNLL
+  bio: J'ai été élu Président du CNLL en 2010. J'ai également présidé l'Open
+    World Forum en 2012. Professionnellement, je suis le fondateur et le directeur
+    général de Smile (intégrateur open source).
+
+
+Vice-Presidents:
+
+  - nom : Sébastien Dubois
+    slug : sdubois
+    email : president@libertis.org
+    twitter : sebfox
+    photo : https://si0.twimg.com/profile_images/2728408259/742daa880b59bcacfc096b466bcb08ad.png
+    fonction : Vice-Président de Medinsoft en charge de la Commission Logiciel Libre Libertis
+    bio : Co-fondateur en 2005 de l'association Libertis qui a rejoint en 2012 l'association Medinsoft en tant que Commission 
+      Logiciel Libre. J'ai participé en région PACA à la reconnaissance des modèles économiques du Logiciel Libre en 
+      co-organisant notamment le premier opus du Salon Professionnel du Logiciel Libre et Open Source (2007). 
+      Professionnellement, je suis le co-fondateur et responsable commercial de l'hébergeur et infogérant Open Source Evolix (Marseille).
+
+  - nom: Stefane Fermigier
+    slug: sfermigier
+    email: sf@fermigier.com
+    twitter: sfermigier
+    linkedin: http://www.linkedin.com/in/sfermigier
+    fonction: Président du GT Logiciel Libre de Systematic
+    bio: Co-fondateur et président du GTLL, co-fondateur et ancien président
+      de l'AFUL, je suis actif dans le milieu français du logiciel libre
+      depuis 1997. J'ai notamment participé à la reconnaissance du logiciel libre
+      par le Ministère de l'Education Nationale en 1998, et je me suis fortement impliqué
+      dans le combat contre les brevets logiciels depuis 1999.
+      Professionnellement, je suis le fondateur de Nuxeo
+      et le fondateur et CEO d'Abilian, deux éditeurs open source.
+
+  - nom : Pascal Flamand
+    slug : pflamand
+    email : pascal.flamand@janua.fr
+    linkedin : http://fr.linkedin.com/pub/pascal-flamand/2/388/342/
+    fonction ; responsable de la commission Open Source de Telecom Valley
+    bio : fondateur de la commission Open Source de Telecom Valley en 2006, administrateur et secretaire
+      général de telecom Valley jusqu'en Novembre 2012, secretaire adjoint et administrateur de
+      Medinsoft/Libertis, fondateur/CEO de la SS2L Janua depuis 2004.
+
+  - nom: Marc Saboureau
+    slug: msaboureau
+    fonction: Président d'Alliance Libre
+    bio:  Co-fondateur et président d'Alliance Libre, je suis impliqué dans le monde du Logiciel Libre depuis
+     1994, professionnellement, j'ai créé  en 1999 l'une des  première SSLL, Solunix. Je suis également   dirigant chez
+     Makina Corpus et Bukolik. Je suis aussi administrateur de La Cantine 2.0  de Nantes et de Ouest 
+     Numérique,  filière régionale TIC des pays de la Loire.  
+    
+Equipe support:
+  - nom: JC Elineau
+    slug: jcelineau
+    bio: ...
+
