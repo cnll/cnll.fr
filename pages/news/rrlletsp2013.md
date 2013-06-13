@@ -3,10 +3,10 @@ date: 2013/06/13
 image: rrletsp2.jpg
 
 ## Le Conseil National du Logiciel Libre et ses représentants régionaux présentent
-+ Une série d’événements pour LE SECTEUR PUBLIC et LES COLLECTIVITES, ses DSI et ses ELUS
++ Une série d’événements pour LE SECTEUR PUBLIC et LES COLLECTIVITES, leurs DSI et leurs ELUS
 + Organisés dans TOUTE LA FRANCE
 + Pour découvrir les BENEFICES des SOLUTIONS TIC LIBRES ET OPEN SOURCE sur les USAGES et l’ÉCONOMIE RÉGIONALE
-+ Avec des _RETOURS D'EXPERIENCES_ de collectivités
++ Avec des RETOURS D'EXPERIENCES de collectivités
 
 ## A qui s'adresse-t-il ?
 + Vous DSI... "Répondez à vos enjeux de productivité grâce à des solutions interopérables et assurant un ROI rapide"
