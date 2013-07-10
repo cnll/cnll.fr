@@ -74,6 +74,24 @@ Plus d'infos :
 
 <hr>
 
+GOALL - Groupe d'organismes acteurs du Libre en Lorraine
+--------------------------------------------------------
+
+![](/image/logos/logo-goall.png)
+
+L’association GOALL a pour objet d’aider tout organisme ayant une activité en Lorraine dans le domaine de la culture libre : informatique libre, cartographie libre, musique libre, art libre, connaissances libres, matériel libre, réseaux de communication libres etc. Le principe de la culture libre est de proposer légalement à tout le monde des œuvres, des informations, du matériel… en libre partage, usage, copie, étude, modification et redistribution. L’association poursuit un but non lucratif.
+
+L’association organise des rencontres, propose des outils de communication, recherche des partenaires et des financements pour ses membres.
+
+Plus d'informations :
+
+- Site internet : <http://www.goall.fr/>
+- Annuaire : <http://www.goall.fr/annuaire>
+- Contact : <http://www.goall.fr/association>- [contact@goall.fr](mailto:contact@goall.fr)
+- Flux RSS : <http://www.goall.fr/feed>
+
+<hr>
+
 GTLL - Groupe Thématique Logiciels Libres de Systematic
 -------------------------------------------------------
 

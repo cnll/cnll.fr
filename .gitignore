@@ -1,0 +1,14 @@
+.vagrant
+.idea
+.DS_Store
+*.pyc
+
+local_config.py
+
+/build
+/components
+/static/components
+/static/.webassets-cache/
+/static/packed.css
+
+
