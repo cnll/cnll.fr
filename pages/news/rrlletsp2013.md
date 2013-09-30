@@ -9,6 +9,12 @@ image: rrletsp2.jpg
 + Pour découvrir les BENEFICES des SOLUTIONS TIC LIBRES ET OPEN SOURCE sur les USAGES et l’ÉCONOMIE RÉGIONALE
 + Avec des RETOURS D'EXPERIENCES de collectivités
 
+## Premières dates
+
+- [Paris, le 4 octobre, à 14h](http://openworldforum.org/fr/tracks/18), pendant l'Open World Forum.
+  [Voir le programme détaillé](http://openworldforum.org/fr/tracks/18).
+
+
 ## A qui s'adresse-t-il ?
 
 + Vous DSI... "Répondez à vos enjeux de productivité grâce à des solutions interopérables et assurant un ROI rapide"
@@ -18,6 +24,7 @@ image: rrletsp2.jpg
 ## Pourquoi venir ?
 
 ### Découvrir un modèle différenciant qui offre :
+
 + Des coûts avantageux car axés sur le service et non la licence d'utilisation ;
 + Le respect des standards avec un modèle d'innovation ouverte pour des solutions interopérables au sein de votre SI ;
 + De la pérennité avec un écosystème riche de prestataires professionnels spécialisés dans les solutions ;
