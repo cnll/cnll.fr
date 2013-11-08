@@ -1,186 +1,190 @@
 header .logo h1 {
-    font-size: 60px;
-    line-height: 55px;
+  font-size: 60px;
+  line-height: 55px;
 }
 
 p a {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .button a, a.da-link, a.btn {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .da-slide .da-link {
-    top: 230px;
-    width: auto !important;
+  top: 230px;
+  width: auto !important;
 }
 
 .da-slide p {
-    top: 105px;
-    color: #555;
-    font-size: 15px;
-    line-height: 26px;
-    height: auto;
+  top: 105px;
+  color: #555;
+  font-size: 15px;
+  line-height: 26px;
+  height: auto;
 }
 
 .container h1 {
-    font-size: 35px;
-    line-height: 45px;
-    margin-bottom: 10px;
+  font-size: 35px;
+  line-height: 45px;
+  margin-bottom: 10px;
 }
 
 .container h2 {
-    font-size: 25px;
-    line-height: 40px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+  font-size: 25px;
+  line-height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .container h3 {
-    font-size: 20px;
-    line-height: 35px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+  font-size: 20px;
+  line-height: 35px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .container p {
-    margin-bottom: 15px;
-    line-height: 22px;
+  margin-bottom: 15px;
+  line-height: 22px;
 }
 
 .content ul li {
-    padding: 0;
-    margin: 0 20px;
+  padding: 0;
+  margin: 0 20px;
 }
 
 .content ul {
-    list-style-type: disc;
+  list-style-type: disc;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 400 !important;
+  font-weight: 400 !important;
 }
 
 .dis-content div {
-    padding-top: 5px;
+  padding-top: 5px;
 }
 
 .blog .entry p {
-    font-size: 14px;
-    margin-top: 12px;
-    margin-bottom: 12px;
+  font-size: 14px;
+  margin-top: 12px;
+  margin-bottom: 12px;
 }
 
 .blog .entry {
-    font-size: 14px;
-    line-height: 25px;
-    margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 25px;
+  margin-bottom: 10px;
 }
 
 .blog .bthumb2 {
-    float: right;
-    margin-top: 8px;
-    margin-left: 8px;
-    border: 1px solid #aaa;
+  float: right;
+  margin-top: 8px;
+  margin-left: 8px;
+  border: 1px solid #aaa;
 }
 
 .blog .bthumb3 {
-    box-shadow: 3px 3px 3px rgba(50, 50, 50, 0.70);
-    float: right;
-    margin-top: 8px;
-    margin-left: 8px;
-    border: 1px solid #aaa;
+  box-shadow: 3px 3px 3px rgba(50, 50, 50, 0.70);
+  float: right;
+  margin-top: 8px;
+  margin-left: 8px;
+  border: 1px solid #aaa;
 }
 
 .blog .bthumb3 img {
-    margin: 0;
-    width: 230px;
-    min-width: 230px;
+  margin: 0;
+  width: 230px;
+  min-width: 230px;
 }
 
 .home-news {
-    font-size: 13px;
-    line-height: 25px;
+  font-size: 13px;
+  line-height: 25px;
 }
 
 .home-news h4 {
-    font-size: 18px;
-    line-height: 23px;
+  font-size: 18px;
+  line-height: 23px;
 }
 
 .home-news p {
-    line-height: 20px;
+  line-height: 20px;
 }
 
 .home-news a.btn {
-    color: white !important;
+  color: white !important;
 }
 
 .home-news .bthumb2 {
-    float: left;
-    margin-top: 8px;
-    margin-right: 8px;
-    margin-bottom: 10px;
-    border: 1px solid #aaa;
+  float: left;
+  margin-top: 8px;
+  margin-right: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #aaa;
 }
 
 .home-news .bthumb2 img {
-    margin: 0;
-    max-width: 210px;
+  margin: 0;
+  max-width: 210px;
 }
-
 
 /* Publications */
 
 ul.publication-list {
-    list-style: none;
-    padding:0;
+  list-style: none;
+  padding: 0;
 }
 
 ul.publication-list li {
-    padding: 15px 0 23px;
-    border-bottom: none;
-    border-top: 1px solid #EBEBEB;
-    margin: 0;
-    min-height: 133px;
+  padding: 15px 0 23px;
+  border-bottom: none;
+  border-top: 1px solid #EBEBEB;
+  margin: 0;
+  min-height: 133px;
 }
 
 ul.publication-list li .picture {
-    width: 200px;
-    float: left;
-    margin-right: 20px;
-    background: whiteSmoke;
-    position: relative;
-    padding: 13px 0;
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+  background: whiteSmoke;
+  position: relative;
+  padding: 13px 0;
 }
 
 ul.publication-list img {
-    z-index: 3;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    box-shadow: 4px 4px 4px rgba(50, 50, 50, 0.70);
+  z-index: 3;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 4px 4px 4px rgba(50, 50, 50, 0.70);
 }
 
 ul.publication-list h3 {
-    font-size: 16px;
-    margin-bottom: 0;
-    padding: 0;
+  font-size: 16px;
+  margin-bottom: 0;
+  padding: 0;
 }
 
 ul.publication-list p {
-    font-size: 14px;
-    margin-top: 0;
-    margin-bottom: 2px;
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 2px;
 }
 
 ul.publication-list aside {
-    font-size: 12px;
-    color: #999;
-    font-style: italic;
+  font-size: 12px;
+  color: #999;
+  font-style: italic;
 }
 
 ul.publication-list a:hover {
-    text-decoration: none;
+  text-decoration: none;
+}
+
+ul.footnotes li {
+  list-style-type: none;
+  margin: 0;
 }
