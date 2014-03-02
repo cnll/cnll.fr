@@ -9,7 +9,7 @@ build:
 	./main.py build
 
 push:
-	rsync -e ssh -avz ./ dedi:cnll.fr/
+	rsync -e ssh -avz --exclude env ./ dedi:cnll.fr/
 
 clean:
 	find . -name "*.pyc" | xargs rm -f
