@@ -1,7 +1,7 @@
 title: Les organisations membres du CNLL
 
 
-Le CNLL comprend actuellement 11 membres, associations régionales ("clusters") d'entreprises
+Le CNLL comprend actuellement 12 membres, associations régionales ("clusters") d'entreprises
 du logiciel libre, qui représentent à ce jour plus de 300 entreprises.
 
 <hr>
@@ -26,7 +26,7 @@ Plus d'infos :
 Aquinetic - Pôle de compétences en logiciels libres en Aquitaine
 ----------------------------------------------------------------
 
-![](http://www.pole-aquinetic.fr/sites/default/files/aquinetic.jpg)
+![](/image/logos/logo-aquinetic.png)
 
 Aquinetic est une association loi 1901 dont l'objectif est l’émergence, le portage, la reconnaissance, la promotion, et le développement d’un pôle régional de compétences scientifiques, techniques et industrielles dans les domaines des services, réseaux informatiques et télécommunications  pour les logiciels libres.
 
@@ -85,7 +85,7 @@ L’association organise des rencontres, propose des outils de communication, re
 
 Plus d'informations :
 
-- Site internet : <http://www.goall.fr/>
+- Site web : <http://www.goall.fr/>
 - Annuaire : <http://www.goall.fr/annuaire>
 - Contact : <http://www.goall.fr/association>- [contact@goall.fr](mailto:contact@goall.fr)
 - Flux RSS : <http://www.goall.fr/feed>
