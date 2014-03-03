@@ -35,7 +35,7 @@ La France est reconnue par plusieurs études parues ces dernières
 années[1](#sdfootnote1sym) comme l’un des deux ou trois pays les plus
 dynamiques au monde en matière de logiciel libre.
 
-A ce jour, on recense en France plus de 300 PME et ETI, éditeurs de
+A ce jour, on recense en France plus de 400 PME et ETI, éditeurs de
 logiciels ou sociétés de services, dédiées au logiciel libre. Elles
 représentent plus de 3000 salariés, qui est de plus en croissance rapide
 annuelle de \~30% / an. [Source: CNLL/PLOSS[2](#sdfootnote2sym)] Si on

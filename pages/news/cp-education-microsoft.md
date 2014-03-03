@@ -114,7 +114,7 @@ Jeanne Tadeusz, responsable affaires publiques, <a href="mailto:jtadeusz@april.o
 <h2>À propos du CNLL</h2>
 
 <p>
-<a href="http://www.cnll.fr/">Le Conseil National du Logiciel Libre</a> est l'instance représentative, au niveau national, des associations et groupements d'entreprises du logiciel libre en France. Le CNLL représente 13 associations et groupements, et par leur intermédiaire plus de 300 entreprises françaises spécialisées ou avec une activité significative dans le logiciel libre.
+<a href="http://www.cnll.fr/">Le Conseil National du Logiciel Libre</a> est l'instance représentative, au niveau national, des associations et groupements d'entreprises du logiciel libre en France. Le CNLL représente 13 associations et groupements, et par leur intermédiaire plus de 400 entreprises françaises spécialisées ou avec une activité significative dans le logiciel libre.
 </p>
 <p>
 Le CNLL a pour principale mission de représenter l'écosystème du logiciel libre auprès des pouvoirs publics et des organisations nationales et internationales existantes.

@@ -1,8 +1,8 @@
 title: Les organisations membres du CNLL
 
 
-Le CNLL comprend actuellement 12 membres, associations régionales ("clusters") d'entreprises
-du logiciel libre, qui représentent à ce jour plus de 300 entreprises.
+Le CNLL comprend actuellement 13 membres, associations régionales ("clusters") d'entreprises
+du logiciel libre, qui représentent à ce jour plus de 400 entreprises.
 
 <hr>
 
@@ -240,3 +240,15 @@ Plus d'infos :
 - Site web : [www.prolibre.net](http://www.prolibre.net/)
 - [Annuaire](http://www.prolibre.net/rubrique.php3?id_rubrique=24) (13 membres en janvier 2013)
 
+
+SoLibre
+-------
+
+![](/image/logos/logo-solibre.png)
+
+
+SoLibre fédère les acteurs professionnels de l'Open Source du Sud-Ouest.
+Experts, éditeurs, intégrateurs, contributeurs d'associations nationales, de communautés ou de projets, tous se retrouvent au sein de SoLibre.
+
+- Site web : [www.solibre.fr](http://www.solibre.fr/)
+- [Annuaire](http://www.solibre.fr/fr/membres.html) (12 membres en mars 2014)
