@@ -16,7 +16,7 @@ Alliance Libre est le pôle d’expertise en logiciels libres de la région nant
 Plus d'infos :
 
 - Site web : [www.alliance-libre.org](http://www.alliance-libre.org)
-- [Annuaire](http://www.alliance-libre.org/membres/les-membres-dalliance-libre.html) (39 membres en janvier 2013)
+- [Annuaire](http://www.alliance-libre.org/membres/les-membres-dalliance-libre.html) (29 membres en mars 2014)
 - [page de
     contact](http://www.alliance-libre.org/index.php?option=com_contact&view=contact&id=1&Itemid=9)
 - [info@alliance-libre.org](mailto:info@alliance-libre.org)
@@ -49,7 +49,7 @@ CapLibre regroupe des éditeurs, des sociétés de service, des hébergeurs et f
 Plus d'infos :
 
 - Site web :  [www.caplibre.fr](http://www.caplibre.fr/)
-- [Annuaire](http://www.caplibre.fr/membres) (5 membres en janvier 2013)
+- [Annuaire](http://www.caplibre.fr/membres) (31 membres en mars 2014)
 - [page de contact](http://www.caplibre.fr/contact/) -
   [contact@caplibre.fr](mailto:contact@caplibre.fr)
 
@@ -111,19 +111,27 @@ Plus d'infos :
 
 <hr>
 
-Libertis
---------
+Libertis - Commission Logiciel Libre de Medinsoft 
+-------------------------------------------------
 
 ![](/image/logos/logo-libertis.jpg)
 
-l’association LIBERTIS a pour vocation de regrouper des sociétés de services ayant fait leurs preuves au sein du modèle libre, aptes à procurer à leurs clients des services de qualité.
+
+Comptant plus de 150 membres, Medinsoft est le plus important réseau de
+promotion de l'industrie numérique en PACA, et plus particulièrement sur
+le territoire de la future Métropole d'Aix/Marseille.  Depuis 2012,
+l'association Libertis a intégré Medinsoft pour devenir sa Commission
+Logiciel Libre en gardant sa vocation de regrouper en PACA (territoire
+de la future Métropole d'Aix/Marseille) des sociétés de services ayant
+fait leurs preuves au sein du modèle libre, aptes à procurer à leurs
+clients des services de qualité. 
+
+Libertis comprennait 20 membres en janvier 2014.
 
 Plus d'infos :
 
-- Site web : [www.libertis.org](http://libertis.org)
-- [Annuaire](http://www.libertis.org/membres) (34 membres en janvier 2013)
-- [Page de contact](http://libertis.org/contact-info) -
-    [president@libertis.org](mailto:president@libertis.org)
+- [Site web](http://www.medinsoft.com/website/cms/7136-7556/commission-logiciel-libre-libertis.dhtml)
+- Contact: [president@libertis.org](mailto:president@libertis.org)
 
 <hr>
 
@@ -240,6 +248,7 @@ Plus d'infos :
 - Site web : [www.prolibre.net](http://www.prolibre.net/)
 - [Annuaire](http://www.prolibre.net/rubrique.php3?id_rubrique=24) (13 membres en janvier 2013)
 
+<hr>
 
 SoLibre
 -------

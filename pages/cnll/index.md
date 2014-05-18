@@ -4,7 +4,7 @@ Le Conseil National du Logiciel Libre est l’instance représentative, au nivea
 
 Il a vu le jour [le 18 février 2010](/news/communique-de-presse-creation-du-cnll/), lorsque les associations régionales d'entreprises du logiciel libre ont choisi de mettre en place une représentation nationale.
 
-Le CNLL représente 11 associations et groupements, et par leur intermédiaire plus de 300 entreprises françaises spécialisées ou avec une activité significative dans le logiciel libre.
+Le CNLL représente 13 associations et groupements, et par leur intermédiaire plus de 400 entreprises françaises spécialisées ou avec une activité significative dans le logiciel libre.
 
 ## Missions
 
