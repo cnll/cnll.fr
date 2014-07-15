@@ -13,7 +13,7 @@ enquête.
 
 L'enquête permet d'identifier les positions, les analyses et les
 demandes de ces entrepreneurs qui ont choisi l'économie du Logiciel
-Libre. Elle des questions juridiques,  des domaines les plus
+Libre. Elle traite des questions juridiques,  des domaines les plus
 prometteurs pour le Logiciel Libre, des freins à son adoption par les
 entreprises, de sa place dans le monde de l'enseignement, des sujets
 politiques également, de recherche et développement, et enfin des suites
