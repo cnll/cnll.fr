@@ -25,7 +25,7 @@ Adoptés le 16 février 2010, par un vote unanime des membres du bureau, présid
 - Alliance Libre – Région Nantaise – Président: Marc Saboureau
 - PLOSS – Région Parisienne – Président: David Sapiro
 - Libertis – Région PACA – Président Jean-Michel Armand
-- PLOSS RHA – Région Rhône Alpes – Président: Patrick Benichou
+- PLOSS RHA – Région Rhône Alpes – Président: François Aubriot
 - Pôle Nord – Région Nord – Président: Vincent Vignolle
 - Prolibre – Région Aquitaine – Président: Hervé Lardin
 - Cap Libre – Région Bretagne – Président : Eric Flaux
@@ -122,7 +122,7 @@ Le Président du CNLL déploie son action selon les objectifs de la feuille de r
 Sont membres du bureau et Vice-Présidents du CNLL:
 
 - Jean-Michel Armand, Pdt Libertis (Région PACA)
-- Patrick Benichou, Pdt PLOSS RHA (Région Rhône-Alpes)
+- François Aubriot, Pdt PLOSS RHA (Région Rhône-Alpes)
 - Stéfane Fermiger, Pdt Groupe Thématique Logiciel Libre (GTLL) de Systematic (Région Ile-de-France)
 - Pascal Flamand, Pdt Telecom Valley Open Source (Région PACA)
 - Eric Flaux, Pdt Cap Libre (Région Bretagne)
