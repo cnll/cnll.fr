@@ -17,7 +17,7 @@ Plus d'infos :
 
 - Site web : [www.alliance-libre.org](http://www.alliance-libre.org)
 - [Annuaire](http://www.alliance-libre.org/membres/les-membres-dalliance-libre.html) (29 membres en mars 2014)
-- [page de
+- [Page de
     contact](http://www.alliance-libre.org/index.php?option=com_contact&view=contact&id=1&Itemid=9)
 - [info@alliance-libre.org](mailto:info@alliance-libre.org)
 
@@ -32,7 +32,7 @@ Aquinetic est une association loi 1901 dont l'objectif est l’émergence, le po
 
 Plus d'infos :
 
-- Site web : [http://pole-aquinetic.fr/](http://pole-aquinetic.fr/)
+- Site web : [http://pole-aquinetic.fr](http://pole-aquinetic.fr/)
 - [Annuaire](http://pole-aquinetic.fr/23-Entreprises) (11 entreprises membres en janvier 2013)
 
 <hr>
@@ -50,7 +50,7 @@ Plus d'infos :
 
 - Site web :  [www.caplibre.fr](http://www.caplibre.fr/)
 - [Annuaire](http://www.caplibre.fr/membres) (31 membres en mars 2014)
-- [page de contact](http://www.caplibre.fr/contact/) -
+- [Page de contact](http://www.caplibre.fr/contact/) -
   [contact@caplibre.fr](mailto:contact@caplibre.fr)
 
 <hr>
@@ -60,7 +60,7 @@ Collibri - Commission Web 2.0 et Logiciels Libres - Cap Digital
 
 ![](/image/logos/logo-coLLibri.jpg)
 
-La communauté Collibri est née d'un désir des acteurs du logiciel libre et du web 2.0 de se rassembler et de s'organiser de façon à faire émerger des projets communs. Ce site collaboratif repésente à lui tout seul l'esprit du 2.0 : il prône la participation, l'échange, le partage et la communication.
+La communauté Collibri est née d'un désir des acteurs du logiciel libre et du web 2.0 de se rassembler et de s'organiser de façon à faire émerger des projets communs. Ce site collaboratif représente à lui tout seul l'esprit du 2.0 : il prône la participation, l'échange, le partage et la communication.
 
 Le rôle de Collibri est à la fois transverse, prônant l'Open Innovation, et vertical, sur les thématiques comme la coopération, l'intelligence collective, les réseaux sociaux, les nouveaux modèles économiques.
 
@@ -85,10 +85,10 @@ L’association organise des rencontres, propose des outils de communication, re
 
 Plus d'informations :
 
-- Site web : <http://www.goall.fr/>
-- Annuaire : <http://www.goall.fr/annuaire>
-- Contact : <http://www.goall.fr/association>- [contact@goall.fr](mailto:contact@goall.fr)
-- Flux RSS : <http://www.goall.fr/feed>
+- Site web : [http://www.goall.fr](http://www.goall.fr/)
+- Annuaire : [http://www.goall.fr/annuaire](http://www.goall.fr/annuaire)
+- Contact : [http://www.goall.fr/association](http://www.goall.fr/association) - [contact@goall.fr](mailto:contact@goall.fr)
+- [Flux RSS](http://www.goall.fr/feed)
 
 <hr>
 
@@ -103,7 +103,7 @@ Il est à ce jour le plus important cluster au monde à focaliser ses activités
 
 Plus d'infos :
 
-- Sites Web :  [www.gt-logiciel-libre.org](http://www.gt-logiciel-libre.org/)
+- Sites web :  [www.gt-logiciel-libre.org](http://www.gt-logiciel-libre.org/)
   et <http://www.systematic-paris-region.org/fr/logiciel-libre>
 - [Annuaire](http://www.systematic-paris-region.org/fr/annuaire-membres/2)
   (80 membres entreprises en janvier 2013)
@@ -131,7 +131,7 @@ Libertis comprennait 20 membres en janvier 2014.
 Plus d'infos :
 
 - [Site web](http://www.medinsoft.com/website/cms/7136-7556/commission-logiciel-libre-libertis.dhtml)
-- Contact: [president@libertis.org](mailto:president@libertis.org)
+- Contact : [president@libertis.org](mailto:president@libertis.org)
 
 <hr>
 
@@ -150,7 +150,7 @@ Plus d'infos :
 
 - Site web :   [Page web de la
     commission](http://www.telecom-valley.fr/page_editoriale/commission-open-source-0)
-- Contact: [pflamand@janua.fr](mailto:pflamand@janua.fr)
+- Contact : [pflamand@janua.fr](mailto:pflamand@janua.fr)
 - [PDF de présentation](/static/old/plaquette_telecom_valley_nov.2010.pdf)
     de Telecom Valley
 
