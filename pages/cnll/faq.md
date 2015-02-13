@@ -6,7 +6,7 @@ Les membres du CNLL sont des associations et groupements
 d’entreprises du logiciel libre. Les entreprises et les personnes
 physiques ne peuvent être directement membres du CNLL. Nous invitons
 les entreprises et les professionnels indépendants qui le souhaitent
-à adhérer à l'une de nos [assocations membres](/cnll/membres/ "Membres").
+à adhérer à l'une de nos [associdations membres](/cnll/membres/ "Membres").
 
 ## Comment adhérer au CNLL ?
 
@@ -23,7 +23,7 @@ gouvernance](/cnll/statuts/ "Gouvernance").
 
 Le CNLL est le porte-drapeau et le porte-parole de la filière
 professionnelle du Logiciel Libre en France. Il assure au plan
-national un relai des [associations
+national un relais des [associations
 régionales](/cnll/membres/ "Membres"), dans leur mission de
 représentation des entreprises du libre auprès des institutions, de
 la presse et du grand public.
@@ -54,8 +54,8 @@ du Libre au service de l’économie française.
 ## Comment se positionne le CNLL par rapport à l’APRIL et l'AFUL ?
 
 Le CNLL est l’organe représentatif des entreprises du Logiciel
-Libre, à la différence de l’APRIL et de l'AFUL, qui oeuvrent pour la
-défense Logiciel Libre dans un contexte plus global. L’APRIL et
+Libre, à la différence de l’APRIL et de l'AFUL, qui œuvrent pour la
+défense du Logiciel Libre dans un contexte plus global. L’APRIL et
 l'AFUL, d'une part, et le CNLL, d'autre part, ont donc des missions
 différentes. Le CNLL soutient les combats de l’APRIL et de l'AFUL.
 L'AFUL pour sa part a, par la voix de son Président, affiché son
@@ -64,8 +64,8 @@ soutien au CNLL lors de son lancement.
 ## Comment se positionne le CNLL par rapport à la FNILL ?
 
 Le CNLL est l’organe représentatif des associations et groupements
-d’entreprises du logiciel libre en France. Il représente 10
-associations qui comptent un total de plus de 200 entreprises. Ces
+d’entreprises du logiciel libre en France. Il représente 13
+associations qui comptent un total de plus de 400 entreprises. Ces
 associations et ces entreprises ont décidé de créer le CNLL car
 elles ne se reconnaissent pas dans le mode de gouvernance qui a été
 mis en place au sein de la FNILL.
