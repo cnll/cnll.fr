@@ -127,11 +127,10 @@ Sont membres du bureau et Vice-Présidents du CNLL:
 - Pascal Flamand, Pdt Telecom Valley Open Source (Région PACA)
 - Eric Flaux, Pdt Cap Libre (Région Bretagne)
 - Hervé Lardin, Pdt Prolibre (Région Aquitaine)
-- Louis Montagne, Pdt Collibri de Cap Digital (Région Ile-de-France)
 - Marc Saboureau, Pdt Alliance Libre (Région Nantaise)
-- David Sapiro, Pdt PLOSS (Région Ile-de-France)
+- Philippe Montargès, Pdt PLOSS (Région Ile-de-France)
 - Vincent Vignolle, Pdt PôleNord (Région Nord)
 
-## Porte Parole du CNLL
+## Co-Présidents du CNLL
 
-Les membres du Conseil d'Administration ont élu Patrice Bertrand, Porte-Parole du CNLL, le 16 février 2010, pour un mandat de un an.
+Les membres du Conseil d'Administration ont élu Stefane Fermigier et Philippe Montargès co-présidents du CNLL, en mai 2015, pour un mandat de deux an.

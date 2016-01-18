@@ -1,7 +1,7 @@
 title: Les organisations membres du CNLL
 
 
-Le CNLL comprend actuellement 13 membres, associations régionales ("clusters") d'entreprises
+Le CNLL comprend actuellement 12 membres, associations régionales ("clusters") d'entreprises
 du logiciel libre, qui représentent à ce jour plus de 400 entreprises.
 
 <hr>
@@ -52,25 +52,6 @@ Plus d'infos :
 - [Annuaire](http://www.caplibre.fr/membres) (31 membres en mars 2014)
 - [page de contact](http://www.caplibre.fr/contact/) -
   [contact@caplibre.fr](mailto:contact@caplibre.fr)
-
-<hr>
-
-Collibri - Commission Web 2.0 et Logiciels Libres - Cap Digital
----------------------------------------------------------------
-
-![](/image/logos/logo-coLLibri.jpg)
-
-La communauté Collibri est née d'un désir des acteurs du logiciel libre et du web 2.0 de se rassembler et de s'organiser de façon à faire émerger des projets communs. Ce site collaboratif repésente à lui tout seul l'esprit du 2.0 : il prône la participation, l'échange, le partage et la communication.
-
-Le rôle de Collibri est à la fois transverse, prônant l'Open Innovation, et vertical, sur les thématiques comme la coopération, l'intelligence collective, les réseaux sociaux, les nouveaux modèles économiques.
-
-Plus d'infos :
-
-- Site web : [www.collibri.org](http://www.collibri.org/)
-- [Annuaire](http://www.capdigital.com/cap-digital/a-propos/annuaireadherents/)
-  (NB: sélectionner "Collibri" dans le menu "Communautés de domaine", 82 membres
-  entreprises en janvier 2013).
-- [Page contact](http://www.capdigital.com/collibri)
 
 <hr>
 
