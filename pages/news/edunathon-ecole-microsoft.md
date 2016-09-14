@@ -1,0 +1,26 @@
+title: 'Les membres du collectif Édunathon demandent l’annulation de l’accord entre Microsoft et l’Éducation Nationale'
+date: 2016/01/29
+image: ecole-republique.jpg
+
+Paris, le jeudi 28 janvier 2016
+
+Le 30 novembre 2015, Madame Najat Vallaud Belkacem, Ministre de l’Éducation Nationale a signé un accord avec Microsoft France d’un montant de 13 millions d’euros pour fournir gratuitement ses logiciels et ses services, notamment en ce qui concerne : l’accompagnement et la formation des élèves et des enseignants ; la mise à disposition de solutions pour une utilisation intelligente, facile et optimale des équipements mobiles – des solutions de « cloud », une expérimentation pour l’apprentissage du code, une aide aux acteurs français de l’e-éducation.
+
+La contrepartie informelle de cette offre apparemment généreuse est que la majorité des acteurs de l’éducation va désormais commencer à devoir s’équiper en technologies Microsoft, soit parce qu’ils y auront été formés, soit parce qu’ils auront été incités à utiliser le cloud et les autres services de Microsoft. Autrement dit, Microsoft est prêt à vendre à perte – voire à fournir ses services gratuitement – pour expulser les nombreuses entreprises françaises et européennes du secteur et acquérir une position la plus monopolistique possible sur le marché français de l’éducation. À l’heure où le gouvernement se bat péniblement pour imposer le principe « d’autonomie informationnelle » dans la loi numérique portée par Madame Axelle Lemaire, Secrétaire d'État chargée du Numérique, la situation est pour le moins étonnante.
+
+Ainsi, les nombreuses entreprises françaises qui proposent des services concurrents dans le domaine de la formation, du cloud, des logiciels bureautiques, etc. se retrouvent brutalement exclues de ces marchés en raison du dumping mis en place par le Ministère. C’est d’ailleurs ce qui est en train de se produire au sein de nombreuses directions d’achat du Ministère de l’Éducation qui revoient leurs catalogues pour privilégier désormais les produits Microsoft. Même économiquement, l’équation est négative puisque de nombreux budgets de l’éducation dépendent des collectivités territoriales et non du Ministère lui-même. La gratuité revendiquée par la Ministre n’est qu’une illusion.
+
+Unanimement dénoncé par le secteur, le choix du Ministère de ne pas suivre les procédures des marchés publics est incompréhensible – et ce d’autant plus que Microsoft France est une société coutumière des redressements fiscaux – 52,5 millions en 2014 et déjà 16,4 millions en 2015. En acceptant qu’un géant international du numérique fournisse gratuitement les mêmes services que ses compétiteurs locaux, en refusant de considérer qu’il s’agit de marchés ayant une valeur, le Ministère dévalorise d’un coup les années de travail de nombreux entrepreneurs et met en danger l’emploi de l’intégralité de ce secteur stratégique pour le futur. Qu’il s’agisse des prestations de formation, des cours de code, du cloud ou des logiciels de bureautique, ces services et ces produits auraient dû faire l’objet d’une mise en concurrence par le Ministère.
+
+En refusant de la faire, en acceptant d’honorer une pratique déloyale et en signant un accord industriellement dangereux avec Microsoft France, la Ministre, Madame Najat Vallaud Belkacem s’est placée dans l’illégalité au regard du Code des marchés publics. À défaut d’annuler cet accord, elle risque là une condamnation pour atteinte à la liberté d’accès et à l’égalité des candidats dans les marchés publics (article 432-14 du Code Pénal), voire pour favoritisme (article 432-10 du Code Pénal).
+
+C’est pour cette raison que les membres du collectif EduNathon ont choisi de porter l'affaire en justice. Cette action est engagée pour défendre le service public, pour préserver le droit des élèves et des enseignants à disposer de leurs données et de leur autonomie informationnelle, pour soutenir l’équité des entreprises et acteurs économiques du numérique, et notamment les jeunes entreprises émergentes françaises et européennes sur les grands chantiers portés par l’État français et les institutions publiques.
+
+Quelques membres du collectif EduNathon :
+
+- Le CNLL (Conseil National du Logiciel Libre) regroupe 13 associations régionales d’Entreprises du Numérique Libre (ENL) et clusters dédiés aux logiciels libres et à l’open source. Le CNLL représente plus de 400 entreprises dont leurs cœurs de métiers sont les Logiciels Libres et/ou l’Open Source.
+
+- La Mouette est une association défendant l’économie sociale et solidaire par le biais notamment de l’utilisation des formats ouverts et de solutions bureautiques libres pour le poste de travail dans le monde professionnel, le monde éducatif, comme le monde privé à la maison. Elle regroupe des adhérents dans toute la France et le monde francophone, de type collectivités, prestataires engagés et particuliers.
+
+- Le Ploss-RA est l’association des professionnels du Numérique Libre de la région Auvergne Rhône-Alpes et membre fondateur du CNLL. L’association regroupe 40 entreprises. Elle a pour objectif de favoriser la coopétition entre ses membres afin de promouvoir et renforcer l’industrie du numérique Libre et Ouvert.
+
