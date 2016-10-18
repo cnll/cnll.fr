@@ -1,6 +1,6 @@
 title: "Le collectif Edunathon dénonce le recours au 'mécénat' des multinationales pour financer le numérique à l'école'"
 date: 2016/09/14
-image: image: ecole-republique.jpg
+image: ecole-republique.jpg
 
 
 Lyon, le mercredi 14 septembre 2016
