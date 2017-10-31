@@ -9,4 +9,4 @@ Les résultats de ce sondage alimenteront la communication économique du CNLL l
 
 Le lien sur le questionnaire en ligne: <https://fr.surveymonkey.com/r/PFDSTZ2>
 
-**Date limite pour les réponses: 30 octobre.**
+**Date limite pour les réponses: <strike>30 octobre</strike> dimanche 6 novembre, 23h59.**
