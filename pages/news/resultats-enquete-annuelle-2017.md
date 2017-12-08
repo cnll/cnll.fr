@@ -1,5 +1,7 @@
 title: "Restitution de l'Etude 2017-2022 sur l'évolution du marché du logiciel libre : La France, championne d'Europe !"
 date: 2017/12/06
+image: enquete-2017.png
+
 
 La filière du logiciel libre et open source française se réunit annuellement à l’occasion du **Paris Open Source Summit**, organisé par le **Pôle de Compétitivité Systematic Paris-Region**, et soutenu par les principales associations représentatives de l’écosystème, notamment le **CNLL**, Union des Entreprise du Logiciel Libre et du Numérique Ouvert, organisation représentative de la filière économique du logiciel libre en France.
 
@@ -70,3 +72,8 @@ Elles sont notamment en première ligne - à la fois en terme de vigilance et de
 Le CNLL, Union des Entreprise du Logiciel Libre et du Numérique Ouvert, en est le co-organisateur. Issu du groupement de 12 clusters régionaux d’entreprises du logiciel libre, il représente environ 400 entreprises “pure players” (spécialisées ou avec une activité significative dans le logiciel libre): éditeurs, intégrateurs, sociétés de conseil, etc.
 
 Le CNLL a pour principales missions de représenter l´écosystème professionnel du logiciel libre auprès des pouvoirs publics et des organisations nationales et internationales existantes, d’assurer une visibilité plus importante de l’ensemble de l’écosystème, de son offre de logiciels et de services, de ses atouts spécifiques et de ses besoins, notamment en termes d’emploi et de formation; de permettre aux acteurs de la filière de se reconnaître en son sein, d’échanger et de travailler ensemble au développement du marché, dans le respect de valeurs communes.
+
+## Infographie
+
+<img src='/static/img/infographie-2017.jpg'>
+
