@@ -5,6 +5,9 @@ image: enquete-2017.png
 
 La filière du logiciel libre et open source française se réunit annuellement à l’occasion du **Paris Open Source Summit**, organisé par le **Pôle de Compétitivité Systematic Paris-Region**, et soutenu par les principales associations représentatives de l’écosystème, notamment le **CNLL**, Union des Entreprise du Logiciel Libre et du Numérique Ouvert, organisation représentative de la filière économique du logiciel libre en France.
 
+**[Télécharger la synthèse de l'étude (PDF, 37 pages)](/static/pdf/etude-2017.pdf)**
+
+
 ## Un poids économique conséquent et en croissance soutenue
 
 Le CNLL réalise chaque année une étude visant à mettre en évidence le poids économique de la filière, son impact sur l’ensemble de l’économie, et notamment sur l’emploi et l’innovation.
