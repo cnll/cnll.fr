@@ -19,7 +19,6 @@ from flask import Flask, render_template, abort, make_response, request, \
   redirect, url_for
 from flask.ext.frozen import Freezer
 from flask.ext.flatpages import FlatPages, Page
-from flask.ext.login import current_user
 from flask.ext.markdown import Markdown
 from flask.ext.assets import Environment as AssetManager
 from flask.ext.babel import Babel
@@ -256,7 +255,7 @@ def page(path=""):
 @app.route('/cnll/equipe/')
 def equipe():
   yaml_data = yaml.safe_load(open(join(app.root_path, "data", "team.yml")))
-  print yaml_data
+  print(yaml_data)
 
   president = yaml_data['President']
   vice_presidents = yaml_data['Vice-Presidents']
@@ -414,7 +413,7 @@ def post(section, title=None, filename=None):
   try:
     codecs.open(filepath, 'w', encoding='utf8').write(content)
     print(u'Created %s' % filepath)
-  except Exception, error:
+  except Exception as error:
     raise CommandError(error)
 
 
